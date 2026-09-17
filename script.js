@@ -15,8 +15,9 @@ const perguntas = [
 
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "A Mata Atlântica",
+                afirmacao: "É prioritária pelo grau de ameaça imediata. Por ser um hotspot reduzido a cerca de 12% de sua área original, abriga centenas de espécies exclusivas (endêmicas) sob risco iminente de extinção."
+
             }    
            
         ]
