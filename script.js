@@ -6,11 +6,13 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Qual bioma brasileiro deve ser a prioridade máxima para políticas de conservação?",
+
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "A Amazônia" ,
+                afirmacao: "É prioritária pelo volume de biodiversidade e impacto global. Como maior floresta tropical do mundo, regula o clima do planeta e armazena toneladas de carbono, tornando sua destruição uma ameaça global."
+
             },
             {
                 texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
