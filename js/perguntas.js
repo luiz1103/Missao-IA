@@ -49,7 +49,9 @@
                 {
                     texto:   "Energia Eólica",
                
-                    afirmacao: ["Destaca-se pela alta eficiência e continuidade de geração. Turbinas eólicas geram grandes volumes de eletricidade ocupando pouca área de solo no nível do chão e continuam produzindo energia durante a noite, quando a energia solar não opera."]
+                    afirmacao: ["Destaca-se pela alta eficiência e continuidade de geração. Turbinas eólicas geram grandes volumes de eletricidade ocupando pouca área de solo no nível do chão e continuam produzindo energia durante a noite, quando a energia solar não opera.",
+                                "Destaca-se pela alta eficiência e continuidade de geração. Turbinas eólicas geram grandes volumes de eletricidade ocupando pouca área de solo no nível do chão e continuam produzindo energia durante a noite, quando a energia solar não opera."
+                    ]
                 }
             ]
         },
