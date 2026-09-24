@@ -5,12 +5,12 @@
         alternativas: [
             {
                 texto: "A Amazônia" ,
-                afirmacao: "É prioritária pelo volume de biodiversidade e impacto global. Como maior floresta tropical do mundo, regula o clima do planeta e armazena toneladas de carbono, tornando sua destruição uma ameaça global."
+                afirmacao: ["É prioritária pelo volume de biodiversidade e impacto global. Como maior floresta tropical do mundo, regula o clima do planeta e armazena toneladas de carbono, tornando sua destruição uma ameaça global."]
 
             },
             {
                 texto:  "A Mata Atlântica",
-                afirmacao: "É prioritária pelo grau de ameaça imediata. Por ser um hotspot reduzido a cerca de 12% de sua área original, abriga centenas de espécies exclusivas (endêmicas) sob risco iminente de extinção."
+                afirmacao: ["É prioritária pelo grau de ameaça imediata. Por ser um hotspot reduzido a cerca de 12% de sua área original, abriga centenas de espécies exclusivas (endêmicas) sob risco iminente de extinção."]
 
             }    
            
