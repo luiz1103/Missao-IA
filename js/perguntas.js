@@ -22,11 +22,11 @@
             alternativas: [
                 {
                     texto: "Reduzir a produção de plásticos descartáveis na fonte",
-                    afirmacao: "Trata o problema pela causa raiz. Sem interromper o fluxo contínuo de novas embalagens no mercado, qualquer ação de limpeza torna-se insuficiente frente ao volume gerado diariamente."
+                    afirmacao: ["Trata o problema pela causa raiz. Sem interromper o fluxo contínuo de novas embalagens no mercado, qualquer ação de limpeza torna-se insuficiente frente ao volume gerado diariamente."]
                 },
                 {
                     texto:  "Aprimorar a gestão de resíduos e a reciclagem nas cidades costeiras",
-                    afirmacao: "Trata a via de entrada imediata. A maioria dos plásticos chega ao mar por falhas no recolhimento urbano perto de rios e praias; estruturar a coleta nesses pontos intercepta o lixo antes que chegue à água",
+                    afirmacao: ["Trata a via de entrada imediata. A maioria dos plásticos chega ao mar por falhas no recolhimento urbano perto de rios e praias; estruturar a coleta nesses pontos intercepta o lixo antes que chegue à água"]
                 }    
                
             ]
@@ -37,12 +37,12 @@
             alternativas: [
                 {
                     texto: Energia "Solar (Fotovoltaica)",
-                    afirmacao: "Destaca-se pela escalabilidade e acessibilidade. Pode ser instalada em quase qualquer lugar — desde telhados residenciais até grandes usinas — e possui manutenção simples e custo de instalação em queda constante.",
+                    afirmacao: ["Destaca-se pela escalabilidade e acessibilidade. Pode ser instalada em quase qualquer lugar — desde telhados residenciais até grandes usinas — e possui manutenção simples e custo de instalação em queda constante."]
                 },
                 {
                     texto:   "Energia Eólica",
                
-                    afirmacao: "Destaca-se pela alta eficiência e continuidade de geração. Turbinas eólicas geram grandes volumes de eletricidade ocupando pouca área de solo no nível do chão e continuam produzindo energia durante a noite, quando a energia solar não opera.",
+                    afirmacao: ["Destaca-se pela alta eficiência e continuidade de geração. Turbinas eólicas geram grandes volumes de eletricidade ocupando pouca área de solo no nível do chão e continuam produzindo energia durante a noite, quando a energia solar não opera."]
                 }
             ]
         },
