@@ -5,7 +5,8 @@
         alternativas: [
             {
                 texto: "A Amazônia" ,
-                afirmacao: ["É prioritária pelo volume de biodiversidade e impacto global. Como maior floresta tropical do mundo, regula o clima do planeta e armazena toneladas de carbono, tornando sua destruição uma ameaça global."]
+                afirmacao: ["É prioritária pelo volume de biodiversidade e impacto global. Como maior floresta tropical do mundo, regula o clima do planeta e armazena toneladas de carbono, tornando sua destruição uma ameaça global.",
+                "É prioritária pelo volume de biodiversidade e impacto global. Como maior floresta tropical do mundo, regula o clima do planeta e armazena toneladas de carbono, tornando sua destruição uma ameaça global."]
 
             },
             {
@@ -22,11 +23,15 @@
             alternativas: [
                 {
                     texto: "Reduzir a produção de plásticos descartáveis na fonte",
-                    afirmacao: ["Trata o problema pela causa raiz. Sem interromper o fluxo contínuo de novas embalagens no mercado, qualquer ação de limpeza torna-se insuficiente frente ao volume gerado diariamente."]
+                    afirmacao: ["Trata o problema pela causa raiz. Sem interromper o fluxo contínuo de novas embalagens no mercado, qualquer ação de limpeza torna-se insuficiente frente ao volume gerado diariamente."
+                        "Trata o problema pela causa raiz. Sem interromper o fluxo contínuo de novas embalagens no mercado, qualquer ação de limpeza torna-se insuficiente frente ao volume gerado diariamente."
+                    ]
                 },
                 {
                     texto:  "Aprimorar a gestão de resíduos e a reciclagem nas cidades costeiras",
-                    afirmacao: ["Trata a via de entrada imediata. A maioria dos plásticos chega ao mar por falhas no recolhimento urbano perto de rios e praias; estruturar a coleta nesses pontos intercepta o lixo antes que chegue à água"]
+                    afirmacao: ["Trata a via de entrada imediata. A maioria dos plásticos chega ao mar por falhas no recolhimento urbano perto de rios e praias; estruturar a coleta nesses pontos intercepta o lixo antes que chegue à água"
+                        "Trata a via de entrada imediata. A maioria dos plásticos chega ao mar por falhas no recolhimento urbano perto de rios e praias; estruturar a coleta nesses pontos intercepta o lixo antes que chegue à água"
+                    ]
                 }    
                
             ]
@@ -37,7 +42,9 @@
             alternativas: [
                 {
                     texto: Energia "Solar (Fotovoltaica)",
-                    afirmacao: ["Destaca-se pela escalabilidade e acessibilidade. Pode ser instalada em quase qualquer lugar — desde telhados residenciais até grandes usinas — e possui manutenção simples e custo de instalação em queda constante."]
+                    afirmacao: ["Destaca-se pela escalabilidade e acessibilidade. Pode ser instalada em quase qualquer lugar — desde telhados residenciais até grandes usinas — e possui manutenção simples e custo de instalação em queda constante.",
+                        "Destaca-se pela escalabilidade e acessibilidade. Pode ser instalada em quase qualquer lugar — desde telhados residenciais até grandes usinas — e possui manutenção simples e custo de instalação em queda constante."
+                    ]
                 },
                 {
                     texto:   "Energia Eólica",
