@@ -29,27 +29,27 @@ const perguntas = [
                 {
                     texto: "Reduzir a produção de plásticos descartáveis na fonte",
                     afirmacao: "Trata o problema pela causa raiz. Sem interromper o fluxo contínuo de novas embalagens no mercado, qualquer ação de limpeza torna-se insuficiente frente ao volume gerado diariamente."
+                },
                 {
-                    texto:  "Trata o problema pela causa raiz. Sem interromper o fluxo contínuo de novas embalagens no mercado, qualquer ação de limpeza torna-se insuficiente frente ao volume gerado diariamente.",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Aprimorar a gestão de resíduos e a reciclagem nas cidades costeiras",
+                    afirmacao: "Trata a via de entrada imediata. A maioria dos plásticos chega ao mar por falhas no recolhimento urbano perto de rios e praias; estruturar a coleta nesses pontos intercepta o lixo antes que chegue à água",
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Qual fonte de energia limpa é a mais recomendada para substituir os combustíveis fósseis na matriz elétrica?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: Energia "Solar (Fotovoltaica)",
+                    afirmacao: "Destaca-se pela escalabilidade e acessibilidade. Pode ser instalada em quase qualquer lugar — desde telhados residenciais até grandes usinas — e possui manutenção simples e custo de instalação em queda constante.",
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:   "Energia Eólica",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
-                }    
-               
+                    afirmacao: "Destaca-se pela alta eficiência e continuidade de geração. Turbinas eólicas geram grandes volumes de eletricidade ocupando pouca área de solo no nível do chão e continuam produzindo energia durante a noite, quando a energia solar não opera.",
+                }
             ]
         },
 ]
