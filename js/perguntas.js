@@ -11,7 +11,10 @@
             },
             {
                 texto:  "A Mata Atlântica",
-                afirmacao: ["É prioritária pelo grau de ameaça imediata. Por ser um hotspot reduzido a cerca de 12% de sua área original, abriga centenas de espécies exclusivas (endêmicas) sob risco iminente de extinção."]
+                afirmacao: ["É prioritária pelo grau de ameaça imediata. Por ser um hotspot reduzido a cerca de 12% de sua área original, abriga centenas de espécies exclusivas (endêmicas) sob risco iminente de extinção.",
+                    "É prioritária pelo grau de ameaça imediata. Por ser um hotspot reduzido a cerca de 12% de sua área original, abriga centenas de espécies exclusivas (endêmicas) sob risco iminente de extinção."]
+
+                
 
             }    
            
